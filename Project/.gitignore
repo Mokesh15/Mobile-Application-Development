@@ -1,0 +1,29 @@
+.gradle/
+.tools/
+local.properties
+/.idea/
+*.iml
+
+# Build outputs
+/build/
+**/build/
+
+# Generated files
+**/captures/
+captures/
+**/.externalNativeBuild/
+**/.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# VS Code settings
+.vscode/
